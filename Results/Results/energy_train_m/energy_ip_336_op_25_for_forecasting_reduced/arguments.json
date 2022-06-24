@@ -1,0 +1,10 @@
+{
+        "saved_dir": "./saved_models/energy_train_m/energy_ip_336_op_25_for_forecasting_reduced",
+        "batch_size": 128,
+        "hidden_size": 128,
+        "nhead": 4,
+        "options": [],
+        "epoch": 50,
+        "lr": 0.0001,
+        "message": "for_forecasting_reduced"
+}
